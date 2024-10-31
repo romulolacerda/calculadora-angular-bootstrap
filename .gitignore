@@ -1,0 +1,25 @@
+# Diretórios de ambiente
+.env
+.venv/
+node_modules/
+
+# Logs
+*.log
+
+# Compilação
+dist/
+build/
+out/
+
+# IDEs
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+
+# Arquivos de configuração específicos do sistema
+*.local
+*.env.local
