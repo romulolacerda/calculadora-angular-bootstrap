@@ -1,27 +1,64 @@
-# Calculadora
+# Calculadora Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+Este é um projeto de calculadora simples desenvolvido com Angular 17 e Bootstrap 5. O objetivo deste projeto é praticar o uso do Angular e aplicar estilos responsivos com Bootstrap.
 
-## Development server
+## Demonstração
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![Calculadora](link-para-sua-imagem.png)
 
-## Code scaffolding
+## Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Realiza operações básicas: adição, subtração, multiplicação e divisão.
+- Interface responsiva e amigável.
+- Limpeza do visor com o botão "C".
 
-## Build
+## Tecnologias Utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Angular 17**: Framework para construção de aplicações web.
+- **Bootstrap 5**: Framework CSS para estilização e layout responsivo.
 
-## Running unit tests
+## Instalação
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Para executar este projeto localmente, siga os passos abaixo:
 
-## Running end-to-end tests
+1. **Clone o repositório**:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
 
-## Further help
+2. **Navegue até o diretório do projeto**:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+   ```bash
+   cd nome-do-repositorio
+   ```
+
+3. **Instale as dependências**:
+
+   ```bash
+   npm install
+   ```
+
+4. **Inicie o servidor de desenvolvimento**:
+
+   ```bash
+   ng serve
+   ```
+
+5. **Acesse a aplicação**:
+
+   Abra seu navegador e vá para `http://localhost:4200`.
+
+## Como Usar
+
+- Clique nos números e operadores para realizar cálculos.
+- Use o botão "C" para limpar o visor.
+- Pressione "=" para ver o resultado da operação.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
