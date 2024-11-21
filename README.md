@@ -4,7 +4,7 @@ Este é um projeto de calculadora simples desenvolvido com Angular 17 e Bootstra
 
 ## Demonstração
 
-![Calculadora](link-para-sua-imagem.png)
+![Calculadora](src/assets/calcimg.png)
 
 ## Funcionalidades
 
